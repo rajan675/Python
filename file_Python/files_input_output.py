@@ -1,0 +1,5 @@
+f=open('sample.txt','a')
+# Read = f.write("Please Write Someething!")
+append=f.write("This is Appending")
+print(append)
+f.close()
